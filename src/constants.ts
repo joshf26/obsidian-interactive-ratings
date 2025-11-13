@@ -24,7 +24,7 @@ export const LOGGING_ENABLED = process.env.LOGGING_ENABLED === 'true';
 
 // Base symbol patterns (excluding user-configurable emojis)
 export const BASE_SYMBOL_PATTERNS: SymbolSet[] = [
-  { full: '★', empty: '☆', half: null },    // Symbols
+  { full: '★', empty: '☆', half: '⯪' },    // Symbols
   { full: '✦', empty: '✧', half: null },    // Star symbols
   { full: '🌕', empty: '🌑', half: '🌗' },   // Moon phases
   { full: '●', empty: '○', half: '◐' },     // Circles

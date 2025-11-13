@@ -9,7 +9,7 @@ Add interactive rating symbols to your notes that update with a click.
 
 | Symbol Type | Full | Empty | Half | Examples |
 |-------------|------|-------|------|----------|
-| Stars | ★ | ☆ |  | `★★★☆☆ (3/5)` Book rating |
+| Stars | ★ | ☆ | ⯪  | `★★⯪☆☆ (2.5/5)` Book rating |
 | Star Symbols | ✦ | ✧ |  | `✦✦✦✧✧ (3/5)` Stargazing |
 | Moon Phases | 🌕 | 🌑 | 🌗 | `🌕🌕🌗🌑🌑 (2.5/5)` Lunar observation |
 | Circles | ● | ○ | ◐ | `●●●○○○○○○○ 3/10` Movie review scale |
